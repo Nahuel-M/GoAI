@@ -1,3 +1,3 @@
 # GoAI
 
-this is a machien learned Go AI
+this is a machine learned Go AI
